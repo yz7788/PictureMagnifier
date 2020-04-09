@@ -19,5 +19,5 @@ where M S A are the parameters as described above.
 ## Result
 Here is a screenshot example of the magnifier demo.
 <p align="center">
- <img src="magnifier.png" height="600"/>
+ <img src="maginifier.png" height="600"/>
 </p >
